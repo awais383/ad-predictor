@@ -1,8 +1,9 @@
 streamlit
 pandas
-numpy
-scikit-learn
+scikit-learn==1.6.1
 nltk
-regex
 google-generativeai
-python-dotenv
+joblib
+numpy
+scipy
+threadpoolctl
